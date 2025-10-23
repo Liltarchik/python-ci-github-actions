@@ -18,3 +18,4 @@ def test_add():
         print("Addition failed.")
 
 print(test_add())
+print("hello world")
