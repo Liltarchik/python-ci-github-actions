@@ -1,6 +1,6 @@
 # Python CI Pipeline with GitHub Actions ⚙️
 
-![Python CI](https://github.com/Liltarchik/github_actions_arit/actions/workflows/python-tests.yml/badge.svg)
+![Python CI]
 
 A showcase repository demonstrating automated continuous integration (CI) workflows for Python applications using GitHub Actions and pytest.
 
